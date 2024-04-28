@@ -1,0 +1,40 @@
+.m1{
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+    width: 50%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 150px;
+  margin-left: 600px;
+  font-size: small;
+
+}
+.m2{
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: small;
+    width: 50%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 150px;
+  margin-left: 600px;
+
+}
+
+.p{
+    font-family:"Times New Roman", Times, serif ;
+    font-size: x-large;
+    margin-left: 600px;
+    color: red;
+}
+.p1{
+    font-family:"Times New Roman", Times, serif ;
+    font-size: x-large;
+    margin-left: 600px;
+}
+.b{
+    text-align: center;
+}
+.ClgBag{
+    text-align: center;
+}
